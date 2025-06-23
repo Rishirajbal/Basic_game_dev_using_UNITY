@@ -1,3 +1,4 @@
+*Note This project was created as a learning exercise for Unity game development. The README was generated with assistance from AI to provide comprehensive documentation.ALL the code has been done by the repository owner that is https://github.com/Rishirajbal.
 # Basic Game Development Using Unity
 
 ## Overview
@@ -63,10 +64,3 @@ This workflow allows for seamless collaboration between AI assistance and GitHub
 - Implement a scoring system
 - Add sound effects and background music
 - Create additional player characters with unique abilities
-
-## Acknowledgements
-This project was created as a learning exercise for Unity game development. The README was generated with assistance from AI to provide comprehensive documentation.
-
----
-
-*Note: This README was created with the assistance of AI to provide thorough documentation of the project.*
